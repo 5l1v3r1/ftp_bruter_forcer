@@ -1,6 +1,6 @@
 # FTP brute force 
 
-## a ftp brute force tool written in python
+# a ftp brute force tool written in python
 
 ## Instructions
 
